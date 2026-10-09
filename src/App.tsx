@@ -279,7 +279,7 @@ export default function App() {
         <a href="#hero" className="flex items-center gap-3 group">
           <LogoIcon className="w-10 h-10 group-hover:rotate-12 transition-transform duration-500" />
           <div className="hidden sm:block">
-            <h1 className={`font-serif font-bold text-lg leading-none ${scrolled ? 'text-green-dark' : 'text-white'}`}>Sunrise Industry</h1>
+            <h1 className={`font-serif font-bold text-lg leading-none ${scrolled ? 'text-green-dark' : 'text-white'}`}>PCMC Broadband</h1>
             <p className={`text-[10px] uppercase tracking-[0.2em] mt-1 ${scrolled ? 'text-green-main' : 'text-white/70'}`}>Pvt Ltd · Est. 2016</p>
           </div>
         </a>
@@ -424,7 +424,7 @@ export default function App() {
               <span className="italic text-green-main font-normal">Driven by Purpose</span>
             </h2>
             <div className="space-y-6 text-slate-600 leading-relaxed">
-              <p>Founded in 2016, Sunrise Industry Pvt Ltd has emerged as a pioneering force in multi-sector service delivery — at the forefront of innovative solutions combining technology, craftsmanship, and strategic vision.</p>
+              <p>Founded in 2016, PCMC Broadband Pvt Ltd has emerged as a pioneering force in multi-sector service delivery — at the forefront of innovative solutions combining technology, craftsmanship, and strategic vision.</p>
               <p>Our integrated approach creates synergy across all six divisions, ensuring efficiency and measurable impact for every client — from startups to large enterprises.</p>
             </div>
 
@@ -646,7 +646,7 @@ export default function App() {
             <div className="flex items-center gap-3 mb-6">
               <LogoIcon className="w-10 h-10" />
               <div>
-                <h3 className="font-serif font-bold text-white text-lg leading-none">Sunrise Industry</h3>
+                <h3 className="font-serif font-bold text-white text-lg leading-none">PCMC Broadband </h3>
                 <p className="text-[10px] uppercase tracking-widest text-green-main mt-1">Pvt Ltd · Est. 2016</p>
               </div>
             </div>
@@ -699,7 +699,7 @@ export default function App() {
         </div>
 
         <div className="max-w-7xl mx-auto pt-12 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-6 text-[10px] uppercase tracking-widest">
-          <p>© 2026 Sunrise Industry Pvt Ltd. All Rights Reserved.</p>
+          <p>© 2026 PCMC Broadband Pvt Ltd. All Rights Reserved.</p>
           <div className="flex gap-8">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-white transition-colors">Terms of Service</a>
